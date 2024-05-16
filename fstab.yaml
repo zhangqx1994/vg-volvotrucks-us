@@ -1,3 +1,2 @@
 mountpoints:
-#  /: https://drive.google.com/drive/folders/11X58xM9MBePb3Wos5y7XXDEOzkpMAmeM
-  /: https://volvogroup.sharepoint.com/:f:/s/unit-sitecore-chapter-china/EuuSC5Dz-25LhgYs1HKhwZUBmmvdSr2GgH-nfru9IAQsfg
+    /: https://drive.google.com/drive/folders/11X58xM9MBePb3Wos5y7XXDEOzkpMAmeM
